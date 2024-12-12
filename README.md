@@ -1,2 +1,3 @@
 # CIFAR-10
 About CIFAR-10 Project The CIFAR-10 (Canadian Institute For Advanced Research) dataset is a well-known benchmark dataset in the field of machine learning and computer vision. This project leverages the CIFAR-10 dataset to build, evaluate, and compare different machine learning models for image classification.
+Project Overview The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The classes represent common objects such as airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks. This project involves preprocessing the data, applying various machine learning techniques, and implementing classifiers to categorize the images accurately.
